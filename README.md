@@ -14,7 +14,7 @@ Clone the project into your-workspace/project-folder.
   ## Running the tests
     
    Initially select any Database, since I've worked with Postgres; screenshot of sample database.
-   ![Database](/Point.png?raw=true "Database Example")
+   ![Database](/Point.PNG?raw=true "Database Example")
 
   ### Assumptions
         In KNN: There are two classes: A and B.
