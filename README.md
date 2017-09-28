@@ -14,13 +14,13 @@ Clone the project into your-workspace/project-folder.
   ## Running the tests
     
    Initially select any Database, since I've worked with Postgres; screenshot of sample database.
+   
    <br />
+   
    ![Database](/Point.PNG?raw=true "Database Example")
 
   ### Assumptions
         In KNN: There are two classes: A and B.
-        
-        <br />
         
         In Bayes: Table consists of details like income and age of customers who buy the computer and who don't. This data help us to classify whether new customer will buy a computer, given his income and age.
         
@@ -28,9 +28,9 @@ Clone the project into your-workspace/project-folder.
   ## Procedure
 
     1. Set the path of the database accordingly.
-    <br />
+    
     2. Run the main class that is Classification.java.
-    <br />
+    
     3. Select either "1" for Bayes, anything but "1" for KNN Classification.
 
 # Author
