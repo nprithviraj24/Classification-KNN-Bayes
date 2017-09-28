@@ -7,17 +7,20 @@ Clone the project into your-workspace/project-folder.
 
 ## Prerequisites
 
-   - Of course an idea about Classification algorithms, specifically Bayes and K-Nearest Neighbour(hereafter referred as KNN).
-   - Since project is written in JAVA, you need Java SE Development Kit in order to run it, of course we can have other versions too but this is the fundamental kit. Personally I'd recommend to use any IDE.
-   - Object-relational database management system (ORDBMS) so that we can obtain data from it inorder to find unique pattern.
+   - Classification algorithms in general, specifically Bayes and K-Nearest Neighbour(hereafter referred as KNN). 
+   - Since project is written in JAVA, you need Java SE Development Kit in order to run it, although we can have other versions too but this is the fundamental kit. Personally I'd recommend to use any IDE.
+   - Object-relational database management system (ORDBMS) so that we can obtain data from it inorder to find unique pattern. Postgres is recommended.
 
   ## Running the tests
     
    Initially select any Database, since I've worked with Postgres; screenshot of sample database.
+   <br />
    ![Database](/Point.PNG?raw=true "Database Example")
 
   ### Assumptions
         In KNN: There are two classes: A and B.
+        
+        <br />
         
         In Bayes: Table consists of details like income and age of customers who buy the computer and who don't. This data help us to classify whether new customer will buy a computer, given his income and age.
         
@@ -25,7 +28,9 @@ Clone the project into your-workspace/project-folder.
   ## Procedure
 
     1. Set the path of the database accordingly.
+    <br />
     2. Run the main class that is Classification.java.
+    <br />
     3. Select either "1" for Bayes, anything but "1" for KNN Classification.
 
 # Author
