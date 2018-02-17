@@ -7,7 +7,7 @@ Clone the project into your-workspace/project-folder.
 
 ## Prerequisites
 
-   - Classification algorithms in general, specifically Bayes and K-Nearest Neighbour(hereafter referred as KNN). 
+   - Classification algorithms, specifically Bayes and K-Nearest Neighbour(hereafter referred as KNN). 
    - Since project is written in JAVA, you need Java SE Development Kit in order to run it, although we can have other versions too but this is the fundamental kit. Personally I'd recommend to use any IDE.
    - Object-relational database management system (ORDBMS) so that we can obtain data from it inorder to find unique pattern. Postgres is recommended.
 
